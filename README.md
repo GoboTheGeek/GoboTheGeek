@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @GoboTheGeek
+- 👀 I'm a Linux enthusiast, especially Debian
 - 👀 I’m interested in programming with Javascript, Java, Apache software and Pine64 Pinephone
 - 🌱 I’m currently learning different Apache software
 - 💞️ I’m looking to collaborate on pine64 projects
